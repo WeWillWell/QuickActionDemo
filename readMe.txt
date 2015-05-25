@@ -1,0 +1,1 @@
+仿2.3联系人QuickContactBadge控件弹出效果，可添加自定义动作
